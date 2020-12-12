@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/proxy:stable-2.8.1
+FROM ghcr.io/linkerd/proxy:stable-2.9.1
